@@ -1,0 +1,4 @@
+MobileNokiaBBerryWAIP
+=====================
+
+J2meMobileScr
